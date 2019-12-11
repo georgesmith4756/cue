@@ -1,0 +1,20 @@
+body {
+    background-color: #5aeb61;
+}
+
+#pageHeader{
+    font-family: 'Archivo', sans-serif;
+    font-size: 80px;
+    padding:20px;
+}
+
+#allBox {
+    background-color: #f5f3f3;
+    padding:20px;
+    margin-left: 10px;
+}
+
+#personalBox {
+    background-color: #f5f3f3;
+    padding:20px;
+}
